@@ -132,8 +132,8 @@ function App() {
     return (
         <Router>
             <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/portfolio" element={<Portfolio />} />
+                <Route path="/Coder-1t45/" element={<Home />} />
+                <Route path="/Coder-1t45/portfolio" element={<Portfolio />} />
                 {/* Add a catch-all route for 404 redirects */}
                 <Route path="*" element={<Navigate to="/" />} />
             </Routes>
