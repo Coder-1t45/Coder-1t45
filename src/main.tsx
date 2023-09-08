@@ -28,7 +28,7 @@ function Home() {
                     src="https://img.shields.io/badge/-PortFolio-blue?style=for-the-badge"
                     alt=""
                     onClick={() => {
-                        document.location.href = "/portfolio";
+                        document.location.href = "/Coder-1t45/portfolio";
                     }}
                 />
             </header>
@@ -121,7 +121,7 @@ function Portfolio() {
                 src="https://img.shields.io/badge/-goback-blue?style=for-the-badge"
                 alt=""
                 onClick={() => {
-                    document.location.href = "/";
+                    document.location.href = "/Coder-1t45/";
                 }}
             />
         </main>
