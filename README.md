@@ -1,7 +1,7 @@
 # Hello there, I'm Itay
 *i wrote all of this readme using chat-gpt cause i can*
 
-[![](https://img.shields.io/badge/-WEBSite-white?style=for-the-badge&logo=sitepoint&logoColor=black)](https://coder-1t45.github.com/Coder-1t45/)
+[![](https://img.shields.io/badge/-WEBSite-white?style=for-the-badge&logo=sitepoint&logoColor=black)](https://coder-1t45.github.io/Coder-1t45/)
 [![](https://img.shields.io/badge/-PortFolio-blue?style=for-the-badge)]()
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itaylayzer@gmai.com)
 
