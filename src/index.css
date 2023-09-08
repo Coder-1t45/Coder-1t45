@@ -1,0 +1,139 @@
+@font-face {
+  font-family: Space Mono;
+  font-weight: 400;
+  src: url(./assets/SpaceMono-Regular.ttf);
+}
+
+@font-face {
+  font-family: Space Mono;
+  font-style: italic;
+  font-weight: 400;
+  src: url(./assets/SpaceMono-Italic.ttf);
+}
+
+@font-face {
+  font-family: Space Mono;
+  font-weight: 500;
+  src: url(./assets/SpaceMono-Bold.ttf);
+}
+
+@font-face {
+  font-family: Space Mono;
+  font-style: italic;
+  font-weight: 500;
+  src: url(./assets/SpaceMono-BoldItalic.ttf);
+}
+
+:root {
+  font-family: Space Mono, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #0a0a0a;
+  color: white;
+
+}
+
+body {
+  margin-inline: 20%;
+  padding: 0;
+  margin-top: 200px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+
+div.game-display {
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 2%);
+  border: 5px solid rgb(32, 32, 32);
+}
+
+div.game-display>img {
+  flex-grow: 1;
+  background-color: rgb(25, 25, 25);
+  position: inherit;
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-size: contain;
+  opacity: 0.5;
+}
+
+div.game-display header {
+  display: flex;
+  padding-inline: 20px;
+  padding-block: 3px;
+}
+
+header img {
+  height: fit-content;
+  margin-block: auto;
+  cursor: pointer;
+  transition: scale .3s cubic-bezier(.3, 0, 0, 1);
+
+}
+
+header img:hover {
+  scale: 0.9
+}
+
+div.game-display header p {
+  font-size: 20px;
+  margin-block: 5px;
+  padding-right: 10px;
+  flex-grow: 1;
+  scale: 1 0.9;
+}
+
+div.game-display div.tags {
+  position: absolute;
+  translate: 10px 10px;
+}
+
+div.game-display div.tags img {
+  display: block;
+}
+
+header {
+
+  display: flex;
+  gap: 100px;
+}
+
+header h3 {
+  flex-grow: 1;
+}
+
+main.portfolio p {
+  margin-block: 5px;
+}
+
+main.portfolio img.burning {
+  width: 400px;
+  height: 200px;
+  margin-top: 20px;
+  animation: burninginside 5s normal;
+  display: block;
+  cursor: default;
+}
+main.portfolio img{
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+@keyframes burninginside {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
