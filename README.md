@@ -1,13 +1,13 @@
 # Hello there, I'm Itay
 *i wrote all of this readme using chat-gpt cause i can*
 
-[![](https://img.shields.io/badge/-WEBSite-white?style=for-the-badge&logo=sitepoint&logoColor=black)](https://coder-1t45.github.io/Coder-1t45/)
-[![](https://img.shields.io/badge/-PortFolio-blue?style=for-the-badge)]()
+[![](https://img.shields.io/badge/-WEBSite-white?style=for-the-badge&logo=sitepoint&logoColor=black)](https://coder-1t45.github.io/)
+[![](https://img.shields.io/badge/-PortFolio-blue?style=for-the-badge)](https://coder-1t45.github.io/Portfolio)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itaylayzer@gmai.com)
 
-I'm an 18-year-old Full Stack developer from Israel. While finishing up high school, I'm also working at a start-up company, where I'm gaining hands-on experience in the tech industry. 
+I'm an 18-year-old Full Stack developer from Israel. While learning at Collage, I'm also working at a start-up company, where I'm gaining hands-on experience in the tech industry. 
 
-I'm proficient in C#, Python, and JavaScript and I enjoy using these languages to build and explore new ideas. Currently, I'm diving into the world of Machine Learning; I'm still learning, but I'm excited. I've also been experimenting with Epic Games' Unreal Engine and Three.js, and I'm hoping to code projects with them in the future. 
+I'm proficient in C#, Python, and JavaScript and I enjoy using these languages to build and explore new ideas. Currently, I'm diving into the world of IO Games; I'm still learning, but I'm excited. I've also been experimenting with Epic Games' Unreal Engine and Three.js, and I'm hoping to code projects with them in the future. 
 
 My exploration into new areas of coding is driven by a thirst for knowledge and a desire to enhance my own experience in the tech field. More than that, I love having fun with coding and bringing my own ideas to life in the form of applications and games.
 
